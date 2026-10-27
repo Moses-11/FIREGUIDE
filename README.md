@@ -44,10 +44,14 @@ The following screenshots show the Fire Guide App intermittent user interfaces.
     <td align="center"><img src="ProfilePage.jpeg" width="220" alt="Fire Guide Profile"></td>
   </tr>
   <tr>
-    <th colspan="3">Privacy and Security</th>
+    <th>Privacy and Security</th>
+    <th>Help and Support-1</th>
+    <th>Help and Support-2</th>
   </tr>
   <tr>
     <td align="center"><img src="Privacy&SecurityPage1.jpeg" width="220" alt="Fire Guide Privacy and Security"></td>
+    <td align="center"><img src="Help&SupportPage1.jpeg" width="220" alt="Fire Guide Help and Support-1"></td>
+    <td align="center"><img src="Help&SupportPage3.jpeg" width="220" alt="Fire Guide Help and Support-3"></td>
     <td></td>
     <td></td>
   </tr>
@@ -56,7 +60,7 @@ The following screenshots show the Fire Guide App intermittent user interfaces.
 # Download the App
 Download the APK from the latest GitHub release:
 
-[**Download FireGuide APP v1.0.0**](https://github.com/Moses-11/FIREGUIDE/releases/tag/v1.1.1)
+[**Download FireGuide APP v1.1.1**](https://github.com/Moses-11/FIREGUIDE/releases/tag/v1.1.1)
 
 1. Open the release page on your Android phone.
 2. Download `app-debug.apk`.
