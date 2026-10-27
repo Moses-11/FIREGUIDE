@@ -22,29 +22,38 @@ The main features of Fire Guide are:
 
 # Screenshots
 The following screenshots show the Fire Guide App intermittent user interfaces.
-### Sign Up
-![Fire Guide Sign Up](Sign-UP.jpeg)
-
-### Sign In
-![Fire Guide Sign In](Sign-IN.jpeg)
-
-### Home Screen
-![Fire Guide HomeScreen](Homescreen.jpeg)
-
-### Animation 
-![Fire Guide Animation Screen](AnimationPage3.jpeg)
-
-### Settings
-![Fire Guide Settings](SettingsPage.jpeg)
-
-### Profile Screen
-![Fire Guide Profile Screen](ProfilePage.jpeg)
-
-### Privacy and Security
-![Fire Guide Privacy and Security](Privacy&SecurityPage1.jpeg)
+<table>
+  <tr>
+    <th>Sign Up</th>
+    <th>Sign In</th>
+    <th>Home Screen</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="Sign-UP.jpeg" width="220" alt="Fire Guide Sign Up"></td>
+    <td align="center"><img src="Sign-IN.jpeg" width="220" alt="Fire Guide Sign In"></td>
+    <td align="center"><img src="Homescreen.jpeg" width="220" alt="Fire Guide Home Screen"></td>
+  </tr>
+  <tr>
+    <th>Animation</th>
+    <th>Settings</th>
+    <th>Profile Screen</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="AnimationPage3.jpeg" width="220" alt="Fire Guide Animation"></td>
+    <td align="center"><img src="SettingsPage.jpeg" width="220" alt="Fire Guide Settings"></td>
+    <td align="center"><img src="ProfilePage.jpeg" width="220" alt="Fire Guide Profile"></td>
+  </tr>
+  <tr>
+    <th colspan="3">Privacy and Security</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="Privacy&SecurityPage1.jpeg" width="220" alt="Fire Guide Privacy and Security"></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 # Download the App
-Download the APK from the latest GitHub release:
 Download the APK from the latest GitHub release:
 
 [**Download FireGuide APP v1.0.0**](https://github.com/Moses-11/FIREGUIDE/releases/tag/v1.1.1)
